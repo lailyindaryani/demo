@@ -15,6 +15,10 @@
         {
             "code":"4",
             "label":"Task"
+        },
+        {
+            "code":"5",
+            "label":"Other"
         }
     ]
 }
